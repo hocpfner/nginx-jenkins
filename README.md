@@ -1,1 +1,2 @@
-# nginx-jenkins
+# playjenkins
+Jenkins Playground
