@@ -1,9 +1,11 @@
 pipeline {
 
   agent { label 'kubepod' }
+  /*
   tools {
     jdk 'Oracle-8u221'
   }
+  */
 
   stages {
 
